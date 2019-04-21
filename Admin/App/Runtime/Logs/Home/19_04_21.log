@@ -1,0 +1,125 @@
+[ 2019-04-21T11:14:29+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp64\www\chanyeyuan\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 277 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp64\www\chanyeyuan\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Undefined index: site_url D:\wamp64\www\chanyeyuan\Admin\App\Common\Common\function.php 第 36 行.
+NOTIC: [8] Undefined index: site_url D:\wamp64\www\chanyeyuan\Admin\App\Common\Common\function.php 第 36 行.
+NOTIC: [8] Memcache::connect(): Server 192.168.0.135 (tcp 11211, udp 0) failed with: ������ӷ���һ��ʱ���û���ȷ�𸴻�ӵ����û�з�Ӧ�����ӳ���ʧ�ܡ�
+ (10060) D:\wamp64\www\chanyeyuan\Admin\ThinkPHP\Library\Think\Cache\Driver\Memcache.class.php 第 43 行.
+NOTIC: [2] Memcache::connect(): Can't connect to 192.168.0.135:11211, ������ӷ���һ��ʱ���û���ȷ�𸴻�ӵ����û�з�Ӧ�����ӳ���ʧ�ܡ�
+ (10060) D:\wamp64\www\chanyeyuan\Admin\ThinkPHP\Library\Think\Cache\Driver\Memcache.class.php 第 43 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp64\www\chanyeyuan\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 673 行.
+NOTIC: [8] MemcachePool::set(): Server 192.168.0.135 (tcp 11211, udp 0) failed with: ������ӷ���һ��ʱ���û���ȷ�𸴻�ӵ����û�з�Ӧ�����ӳ���ʧ�ܡ�
+ (10060) D:\wamp64\www\chanyeyuan\Admin\ThinkPHP\Library\Think\Cache\Driver\Memcache.class.php 第 96 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp64\www\chanyeyuan\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 673 行.
+NOTIC: [8] Undefined index: site_url D:\wamp64\www\chanyeyuan\Admin\App\Common\Common\function.php 第 36 行.
+NOTIC: [8] MemcachePool::delete(): Server 192.168.0.135 (tcp 11211, udp 0) failed with: ������ӷ���һ��ʱ���û���ȷ�𸴻�ӵ����û�з�Ӧ�����ӳ���ʧ�ܡ�
+ (10060) D:\wamp64\www\chanyeyuan\Admin\ThinkPHP\Library\Think\Cache\Driver\Memcache.class.php 第 139 行.
+NOTIC: [8] Undefined index: site_url D:\wamp64\www\chanyeyuan\Admin\App\Common\Common\function.php 第 36 行.
+NOTIC: [8] Undefined index: site_url D:\wamp64\www\chanyeyuan\Admin\App\Common\Common\function.php 第 36 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000522s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp64\www\chanyeyuan\Admin\ThinkPHP\Common\functions.php 第 1266 行.
+ERR: 无法加载控制器:Index
+
+[ 2019-04-21T11:15:15+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp64\www\chanyeyuan\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 277 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp64\www\chanyeyuan\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Undefined index: site_url D:\wamp64\www\chanyeyuan\Admin\App\Common\Common\function.php 第 36 行.
+NOTIC: [8] Undefined index: site_url D:\wamp64\www\chanyeyuan\Admin\App\Common\Common\function.php 第 36 行.
+NOTIC: [8] Memcache::connect(): Server 192.168.0.135 (tcp 11211, udp 0) failed with: ������ӷ���һ��ʱ���û���ȷ�𸴻�ӵ����û�з�Ӧ�����ӳ���ʧ�ܡ�
+ (10060) D:\wamp64\www\chanyeyuan\Admin\ThinkPHP\Library\Think\Cache\Driver\Memcache.class.php 第 43 行.
+NOTIC: [2] Memcache::connect(): Can't connect to 192.168.0.135:11211, ������ӷ���һ��ʱ���û���ȷ�𸴻�ӵ����û�з�Ӧ�����ӳ���ʧ�ܡ�
+ (10060) D:\wamp64\www\chanyeyuan\Admin\ThinkPHP\Library\Think\Cache\Driver\Memcache.class.php 第 43 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp64\www\chanyeyuan\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 673 行.
+NOTIC: [8] MemcachePool::set(): Server 192.168.0.135 (tcp 11211, udp 0) failed with: ������ӷ���һ��ʱ���û���ȷ�𸴻�ӵ����û�з�Ӧ�����ӳ���ʧ�ܡ�
+ (10060) D:\wamp64\www\chanyeyuan\Admin\ThinkPHP\Library\Think\Cache\Driver\Memcache.class.php 第 96 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp64\www\chanyeyuan\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 673 行.
+NOTIC: [8] Undefined index: site_url D:\wamp64\www\chanyeyuan\Admin\App\Common\Common\function.php 第 36 行.
+NOTIC: [8] MemcachePool::delete(): Server 192.168.0.135 (tcp 11211, udp 0) failed with: ������ӷ���һ��ʱ���û���ȷ�𸴻�ӵ����û�з�Ӧ�����ӳ���ʧ�ܡ�
+ (10060) D:\wamp64\www\chanyeyuan\Admin\ThinkPHP\Library\Think\Cache\Driver\Memcache.class.php 第 139 行.
+NOTIC: [8] Undefined index: site_url D:\wamp64\www\chanyeyuan\Admin\App\Common\Common\function.php 第 36 行.
+NOTIC: [8] Undefined index: site_url D:\wamp64\www\chanyeyuan\Admin\App\Common\Common\function.php 第 36 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000931s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001059s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp64\www\chanyeyuan\Admin\ThinkPHP\Common\functions.php 第 1266 行.
+ERR: 无法加载控制器:Index
+
+[ 2019-04-21T11:16:13+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp64\www\chanyeyuan\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 277 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp64\www\chanyeyuan\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Undefined index: site_url D:\wamp64\www\chanyeyuan\Admin\App\Common\Common\function.php 第 36 行.
+NOTIC: [8] Undefined index: site_url D:\wamp64\www\chanyeyuan\Admin\App\Common\Common\function.php 第 36 行.
+NOTIC: [8] Memcache::connect(): Server 192.168.0.135 (tcp 11211, udp 0) failed with: ������ӷ���һ��ʱ���û���ȷ�𸴻�ӵ����û�з�Ӧ�����ӳ���ʧ�ܡ�
+ (10060) D:\wamp64\www\chanyeyuan\Admin\ThinkPHP\Library\Think\Cache\Driver\Memcache.class.php 第 43 行.
+NOTIC: [2] Memcache::connect(): Can't connect to 192.168.0.135:11211, ������ӷ���һ��ʱ���û���ȷ�𸴻�ӵ����û�з�Ӧ�����ӳ���ʧ�ܡ�
+ (10060) D:\wamp64\www\chanyeyuan\Admin\ThinkPHP\Library\Think\Cache\Driver\Memcache.class.php 第 43 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp64\www\chanyeyuan\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 673 行.
+NOTIC: [8] MemcachePool::set(): Server 192.168.0.135 (tcp 11211, udp 0) failed with: ������ӷ���һ��ʱ���û���ȷ�𸴻�ӵ����û�з�Ӧ�����ӳ���ʧ�ܡ�
+ (10060) D:\wamp64\www\chanyeyuan\Admin\ThinkPHP\Library\Think\Cache\Driver\Memcache.class.php 第 96 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp64\www\chanyeyuan\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 673 行.
+NOTIC: [8] Undefined index: site_url D:\wamp64\www\chanyeyuan\Admin\App\Common\Common\function.php 第 36 行.
+NOTIC: [8] MemcachePool::delete(): Server 192.168.0.135 (tcp 11211, udp 0) failed with: ������ӷ���һ��ʱ���û���ȷ�𸴻�ӵ����û�з�Ӧ�����ӳ���ʧ�ܡ�
+ (10060) D:\wamp64\www\chanyeyuan\Admin\ThinkPHP\Library\Think\Cache\Driver\Memcache.class.php 第 139 行.
+NOTIC: [8] Undefined index: site_url D:\wamp64\www\chanyeyuan\Admin\App\Common\Common\function.php 第 36 行.
+NOTIC: [8] Undefined index: site_url D:\wamp64\www\chanyeyuan\Admin\App\Common\Common\function.php 第 36 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000638s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp64\www\chanyeyuan\Admin\ThinkPHP\Common\functions.php 第 1266 行.
+ERR: 无法加载控制器:Index
+
+[ 2019-04-21T11:16:47+08:00 ] 127.0.0.1 /u/get_user_info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp64\www\chanyeyuan\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 277 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp64\www\chanyeyuan\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Undefined index: site_url D:\wamp64\www\chanyeyuan\Admin\App\Common\Common\function.php 第 36 行.
+NOTIC: [8] Undefined index: site_url D:\wamp64\www\chanyeyuan\Admin\App\Common\Common\function.php 第 36 行.
+NOTIC: [8] Memcache::connect(): Server 192.168.0.135 (tcp 11211, udp 0) failed with: ������ӷ���һ��ʱ���û���ȷ�𸴻�ӵ����û�з�Ӧ�����ӳ���ʧ�ܡ�
+ (10060) D:\wamp64\www\chanyeyuan\Admin\ThinkPHP\Library\Think\Cache\Driver\Memcache.class.php 第 43 行.
+NOTIC: [2] Memcache::connect(): Can't connect to 192.168.0.135:11211, ������ӷ���һ��ʱ���û���ȷ�𸴻�ӵ����û�з�Ӧ�����ӳ���ʧ�ܡ�
+ (10060) D:\wamp64\www\chanyeyuan\Admin\ThinkPHP\Library\Think\Cache\Driver\Memcache.class.php 第 43 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp64\www\chanyeyuan\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 673 行.
+NOTIC: [8] MemcachePool::set(): Server 192.168.0.135 (tcp 11211, udp 0) failed with: ������ӷ���һ��ʱ���û���ȷ�𸴻�ӵ����û�з�Ӧ�����ӳ���ʧ�ܡ�
+ (10060) D:\wamp64\www\chanyeyuan\Admin\ThinkPHP\Library\Think\Cache\Driver\Memcache.class.php 第 96 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp64\www\chanyeyuan\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 673 行.
+NOTIC: [8] Undefined index: site_url D:\wamp64\www\chanyeyuan\Admin\App\Common\Common\function.php 第 36 行.
+NOTIC: [8] Undefined index: site_url D:\wamp64\www\chanyeyuan\Admin\App\Common\Common\function.php 第 36 行.
+NOTIC: [8] Undefined index: site_url D:\wamp64\www\chanyeyuan\Admin\App\Common\Common\function.php 第 36 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000502s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000571s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp64\www\chanyeyuan\Admin\ThinkPHP\Common\functions.php 第 1266 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp64\www\chanyeyuan\Admin\App\Home\Controller\UserController.class.php 第 70 行.
+
+[ 2019-04-21T11:18:27+08:00 ] 127.0.0.1 /u/get_user_info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+NOTIC: [8] Use of undefined constant SELLER_ID - assumed 'SELLER_ID' D:\wamp64\www\chanyeyuan\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 277 行.
+NOTIC: [8] Use of undefined constant SHOP_ID - assumed 'SHOP_ID' D:\wamp64\www\chanyeyuan\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 278 行.
+NOTIC: [8] Undefined index: site_url D:\wamp64\www\chanyeyuan\Admin\App\Common\Common\function.php 第 36 行.
+NOTIC: [8] Undefined index: site_url D:\wamp64\www\chanyeyuan\Admin\App\Common\Common\function.php 第 36 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp64\www\chanyeyuan\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 673 行.
+NOTIC: [2] Yar_Client::setOpt(): expects a long integer timeout value D:\wamp64\www\chanyeyuan\Admin\ThinkPHP\Library\Org\Api\ServiceProxy.class.php 第 673 行.
+NOTIC: [8] Undefined index: site_url D:\wamp64\www\chanyeyuan\Admin\App\Common\Common\function.php 第 36 行.
+NOTIC: [8] Undefined index: site_url D:\wamp64\www\chanyeyuan\Admin\App\Common\Common\function.php 第 36 行.
+NOTIC: [8] Undefined index: site_url D:\wamp64\www\chanyeyuan\Admin\App\Common\Common\function.php 第 36 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001236s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp64\www\chanyeyuan\Admin\ThinkPHP\Common\functions.php 第 1266 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\wamp64\www\chanyeyuan\Admin\App\Home\Controller\UserController.class.php 第 70 行.
+
